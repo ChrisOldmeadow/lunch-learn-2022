@@ -1,0 +1,78 @@
+---
+title: "HMRI Data Sciences"
+author: "Chris Oldmeadow"
+format:
+  revealjs:
+     self-contained: true
+     theme: dark
+     transition: slide
+     background-transition: fade
+     logo: hmri.png
+     title-slide-attributes:
+      data-background-image: Building_Dusk_Background.jpg
+      data-background-opacity: '0.2'
+      data-background-size: cover
+editor: visual
+---
+
+## HMRI Data Sciences
+
+![](DataScience_Diagram_v01_Aug22.png)
+
+## What services
+
+-   Advice on design/analysis
+-   One-on-one senior mentoring
+-   Full analysis/report/manuscript support
+-   Teaching/Workshops - REDCap & Analytics
+
+## Health Informatics {data-background="Datacenter.jpg"}
+
+{{< fa database >}} Data capture (REDCap) {{< fa broom >}} Data cleaning/ harmonisation {{< fa medkit >}} Health data access/ governance support {{< fa chart-bar >}} Visualisation/Reporting {{< fa gauge >}} Dashboards
+
+## Biostats and Epi {background-image="creditss.jpg" background-size="cover" background-opacity="0.2"}
+
+{{< fa balance-scale >}} clinical trial design, analyses {{< fa weight >}} Causal modelling {{< fa align-center >}} meta-analysis {{< fa chart-line >}} time-series analysis {{< fa handshake >}} instrument validity/reliability
+
+## Machine Learning {background-image="machine_learning.jpg" background-size="cover" background-opacity="0.2"}
+
+{{< fa brain >}} predictive analytics, transfer learning {{< fa vials >}} biomarker studies {{< fa lightbulb >}} cluster/segmentation analysis {{< fa image >}} image analysis
+
+## Bioinformatics {background-image="bioinformatics.png" background-size="cover" background-opacity="0.5"}
+
+{{< fa computer >}} Omics (genomics/proteomics/transcriptomics/epigenomics) {{< fa dna >}} single cell RNA-Seq {{< fa cogs >}} multi-domain integration analysis {{< fa chart-bar >}} visualisations {{< fa hand-pointer >}} interactive results exploration
+
+## Why?
+
+::: columns
+::: {.column width="40%"}
+-   7 PhDs + 7 Masters ![](team.png)
+
+-   wide and varied experience
+
+-   Rigorous quality control
+
+-   Wide area of collaborators (clinical/academic/govt/industry) - bring novel ideas
+:::
+
+::: {.column width="50%"}
+-   Synergy ![](synergy.png)
+-   High Impact publications
+-   Grant success
+:::
+:::
+
+## How we work
+
+-   Make an appointment
+
+    -   Bioinformatics ( carlos.riveros\@hmri.org.au or christophe.lefevre\@hmri.org.au )
+    -   All other services (https://redcap.hmri.org.au/surveys/?s=WXNMDXHLMH)
+
+-   Initial consultation (free 1 hour)
+
+-   Quote provided
+
+## Here to support the programs
+
+-   Reach out to me if you'd like to discuss how we can best support your program
